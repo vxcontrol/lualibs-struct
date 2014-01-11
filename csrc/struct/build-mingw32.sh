@@ -1,4 +1,4 @@
-gcc struct.c -O2 -s -o ../../bin/mingw32/struct.dll -shared -I. -I../lua -ansi -L../../bin/mingw32 -llua51 \
+gcc struct.c -O2 -s -o ../../bin/mingw32/clib/struct.dll -shared -I. -I../lua -ansi -L../../bin/mingw32 -llua51 \
 	-DSTRUCT_INT="long long" \
 	-Wall \
 	-W -pedantic \
