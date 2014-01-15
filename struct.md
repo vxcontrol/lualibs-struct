@@ -1,7 +1,6 @@
 ---
 project:     struct
 tagline:     Binary packing and unpacking
-category:    Language
 ---
 
 ## `local struct = require'struct'`
