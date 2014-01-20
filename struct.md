@@ -1,9 +1,11 @@
 ---
-project:     struct
-tagline:     Binary packing and unpacking
+project: struct
+tagline: binary packing & unpacking
 ---
 
 ## `local struct = require'struct'`
+
+Roberto's struct library.
 
 ## Documentation
 
