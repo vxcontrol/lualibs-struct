@@ -1,4 +1,4 @@
-gcc $CFLAGS struct.c -shared -o ../../bin/linux32/struct.so -I. -I../lua -ansi \
+gcc $CFLAGS struct.c -shared -o ../../bin/linux32/clib/struct.so -I. -I../lua -ansi \
 	-DSTRUCT_INT="long long" \
 	-Wall \
 	-W -pedantic \
