@@ -9,7 +9,7 @@ Roberto's struct library.
 
 ## Documentation
 
-It's [here](struct doc).
+It's [here][struct doc].
 
 
 [struct doc]: http://www.inf.puc-rio.br/~roberto/struct/
