@@ -1,2 +1,1 @@
-gcc -O2 -s -static-libgcc -fPIC struct.c -shared -o ../../bin/linux64/clib/struct.so -I. -I../lua -ansi -Wall -pedantic \
-    -DSTRUCT_INT="long long" -Wno-long-long
+P=linux64 C=-fPIC L="-s -static-libgcc" D=struct.so A=libstruct.a ./build.sh

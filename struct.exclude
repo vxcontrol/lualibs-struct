@@ -22,5 +22,11 @@
 !/bin/linux64/clib/struct*
 !/bin/osx32/clib/struct*
 !/bin/osx64/clib/struct*
+!/bin/mingw32/struct*
+!/bin/mingw64/struct*
+!/bin/linux32/libstruct*
+!/bin/linux64/libstruct*
+!/bin/osx32/libstruct*
+!/bin/osx64/libstruct*
 !/csrc/struct/
 !/csrc/struct/**
