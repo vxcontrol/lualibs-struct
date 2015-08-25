@@ -1,5 +1,4 @@
 ---
-project: struct
 tagline: binary packing & unpacking
 ---
 
